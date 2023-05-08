@@ -3,7 +3,7 @@
 <br>
 <h1>Использовано расширения написаное автором https://github.com/javerianadeem для быстрой автоматизации метамаск кошельков с другими сервисами</h1>
 <br>
-<h1>Необходимо скачать и настроить расширение по ссылки: pip install -i https://test.pypi.org/simple/ selenium-metamask-automation</h1>
+<h1>Необходимо скачать и настроить расширение по ссылки: "pip install -i https://test.pypi.org/simple/ selenium-metamask-automation"</h1>
 <br>
 
 <h3>Подключение к сайту Metamask</h3>
@@ -17,7 +17,7 @@
 <br>
 <h3>Синхронизация Metamsk & AirDrop кошельков</h3>
 
-<img src="https://user-images.githubusercontent.com/97764479/236833163-30191088-0d7c-476b-a608-0617b7629310.png)" width=20% height=20%>
+<img src="https://user-images.githubusercontent.com/97764479/236833163-30191088-0d7c-476b-a608-0617b7629310.png" width=20% height=20%>
 <br>
 <h3>Результат</h3>
 <img src="https://user-images.githubusercontent.com/97764479/236833360-411ca93b-555b-4a2a-bceb-8c2397ce3f0c.png" width=20% height=20%>
