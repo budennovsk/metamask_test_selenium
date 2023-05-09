@@ -1,9 +1,10 @@
 # metamask_test_selenium
 
 <br>
-<h1>Использовано расширение написаное автором [a link]https://github.com/javerianadeem для быстрой автоматизации метамаск кошельков с другими сервисами</h1>
+
+<h1>Использовано расширение написаное автором <p>https://github.com/javerianadeem<p>для быстрой автоматизации метамаск кошельков с другими сервисами</h1>
 <br>
-<h1>Необходимо скачать и настроить расширение по ссылки: "pip install -i https://test.pypi.org/simple/ selenium-metamask-automation"</h1>
+<h1>Необходимо скачать и настроить расширение по ссылки: <p>"pip install -i https://test.pypi.org/simple/ selenium-metamask-automation"</p></h1>
 <br>
 
 <h3>Подключение к сайту Metamask</h3>
