@@ -5,6 +5,8 @@
 
 * ### Необходимо скачать и настроить расширение по ссылки [https://test.pypi.org/simple/ selenium-metamask-automation](https://test.pypi.org/simple/selenium-metamask-automation)
 
+* ``` pip install -i https://test.pypi.org/simple/ selenium-metamask-automation ```
+
 
 <h3>Подключение к сайту Metamask</h3>
 <img src="https://user-images.githubusercontent.com/97764479/236832185-b5d4cc38-cbf9-4151-8aee-7fda3c0261e3.png" width=100% height=100%>
