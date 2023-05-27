@@ -1,6 +1,14 @@
 # metamask_test_selenium
 
-
+## Тестовое задание
+* снять видео:
+  * установить с нуля селенеум;
+  * установить python;
+  * настроить это https://github.com/javerianadeem/selenium_metamask_automation; 
+  *  автоматически подключиться к https://portfolio.metamask.io/ и залогиниться с кошельком, переключиться между сетями, и переключиться на второй кошелек;
+  *  автоматически подключиться к https://app.airdrop-hunter.site/ и залогиниться с кошельком.
+  
+___
 * ### Использовано расширение написаное автором [https://github.com/javerianadeem](https://github.com/javerianadeem) для быстрой автоматизации метамаск кошельков с другими сервисами
 
 * ### Необходимо скачать и настроить расширение по ссылки [https://test.pypi.org/simple/ selenium-metamask-automation](https://test.pypi.org/simple/selenium-metamask-automation)
